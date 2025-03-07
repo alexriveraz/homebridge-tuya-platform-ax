@@ -1,5 +1,5 @@
 {
-    "pluginAlias": "TuyaPlatform",
+    "pluginAlias": "TuyaPlatformAX",
     "pluginType": "platform",
     "singular": true,
     "headerDisplay": "",
