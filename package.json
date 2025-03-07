@@ -1,21 +1,21 @@
 {
-  "name": "@0x5e/homebridge-tuya-platform",
-  "displayName": "Tuya",
+  "name": "@alexriveraz/homebridge-tuya-platform",
+  "displayName": "Tuya AX Version",
   "version": "1.7.0-beta.54",
   "description": "Fork version of official Tuya Homebridge plugin. Brings a bunch of bug fix and new device support.",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/0x5e/homebridge-tuya-platform"
+    "url": "https://github.com/alexriveraz/homebridge-tuya-platform-ax"
   },
-  "homepage": "https://github.com/0x5e/homebridge-tuya-platform#readme",
+  "homepage": "https://github.com/alexriveraz/homebridge-tuya-platform-ax#readme",
   "bugs": {
-    "url": "https://github.com/0x5e/homebridge-tuya-platform/issues"
+    "url": "https://github.com/alexriveraz/homebridge-tuya-platform-ax/issues"
   },
   "funding": [
     {
       "type": "paypal",
-      "url": "https://paypal.me/0x5e"
+      "url": "https://www.paypal.me/alexrivza"
     }
   ],
   "engines": {
